@@ -1,0 +1,12 @@
+C:\Users\Familia-1\Desktop\patron-iterator-en-csharp-ejemplo-1-master\PdC_04_Iterator\bin\Debug\PdC_04_Iterator.exe.config
+C:\Users\Familia-1\Desktop\patron-iterator-en-csharp-ejemplo-1-master\PdC_04_Iterator\bin\Debug\PdC_04_Iterator.exe
+C:\Users\Familia-1\Desktop\patron-iterator-en-csharp-ejemplo-1-master\PdC_04_Iterator\bin\Debug\PdC_04_Iterator.pdb
+C:\Users\Familia-1\Desktop\patron-iterator-en-csharp-ejemplo-1-master\PdC_04_Iterator\bin\Debug\PdC_04_Iterator.xml
+C:\Users\Familia-1\Desktop\patron-iterator-en-csharp-ejemplo-1-master\PdC_04_Iterator\obj\Debug\PdC_04_Iterator.csproj.AssemblyReference.cache
+C:\Users\Familia-1\Desktop\patron-iterator-en-csharp-ejemplo-1-master\PdC_04_Iterator\obj\Debug\PdC_04_Iterator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Familia-1\Desktop\patron-iterator-en-csharp-ejemplo-1-master\PdC_04_Iterator\obj\Debug\PdC_04_Iterator.Form1.resources
+C:\Users\Familia-1\Desktop\patron-iterator-en-csharp-ejemplo-1-master\PdC_04_Iterator\obj\Debug\PdC_04_Iterator.Resources.resources
+C:\Users\Familia-1\Desktop\patron-iterator-en-csharp-ejemplo-1-master\PdC_04_Iterator\obj\Debug\PdC_04_Iterator.csproj.GenerateResource.cache
+C:\Users\Familia-1\Desktop\patron-iterator-en-csharp-ejemplo-1-master\PdC_04_Iterator\obj\Debug\PdC_04_Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Familia-1\Desktop\patron-iterator-en-csharp-ejemplo-1-master\PdC_04_Iterator\obj\Debug\PdC_04_Iterator.exe
+C:\Users\Familia-1\Desktop\patron-iterator-en-csharp-ejemplo-1-master\PdC_04_Iterator\obj\Debug\PdC_04_Iterator.pdb
